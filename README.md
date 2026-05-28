@@ -60,10 +60,13 @@ Lancer l'application :
 
 Bash
 npm start
+
 📖 Utilisation
 Pour accéder à la vue publique : http://localhost:3000/?siteId=demo-site&view=public
 
 Pour accéder à l'administration : http://localhost:3000/?siteId=demo-site&view=admin
+
+⚠️ Note technique (Hackathon) : Ce projet a été réalisé en mode sprint intensif lors de la Nuit de l'Informatique. Il est présenté ici en tant que MVP (Minimum Viable Product). N'étant pas un produit finalisé à 100% pour la production, certaines fonctionnalités secondaires ou cas limites sont en cours d'optimisation et le code est sujet à des sessions de refactoring (notamment sur la robustesse globale, la gestion des erreurs et la configuration Firebase).
 
 Auteur :
 Rafael Azevedo - Étudiant en L2 MIASHS (Parcours MIAGE) (Nuit de l'informatique 2025).
